@@ -19,9 +19,9 @@ T myMax(T x, T y)
 int main()
 {
 
-  cout << myMax<int>(20, 40);
+  cout << myMax<int>(20, 40) << endl; // 40
 
-  cout << myMax<double>(30.5f, 10.5f);
+  cout << myMax<double>(30.5f, 10.5f); // 30.5
 
   return 0;
 }
