@@ -1,5 +1,5 @@
 /*
-💥 In pass-by-reference method, instead of passing the value of the argument, we pass the reference of an argument to the function. This allows the function to change the value of the original argument. This is useful when you have to pass large size data.
+💥 In pass-by-reference method, instead of passing the value of the argument, we pass the reference of an argument to the function. This allows the function to change the value of the original argument. This is useful when you have to pass large size data. Pass by reference is also known as in-line function.
 */
 
 #include <iostream>
